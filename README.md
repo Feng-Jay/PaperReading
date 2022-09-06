@@ -8,5 +8,5 @@ Record and share the papers I read.
 
 ## Program synthesis
 
-*Thanks My tutor Jiajun Jiang's [arrangement](https://github.com/xgdsmileboy/SE-Papers)*
+*Thanks My tutor Jiajun Jiang's [summarize](https://github.com/xgdsmileboy/SE-Papers)*
 
